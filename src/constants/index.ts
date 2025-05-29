@@ -318,8 +318,7 @@ export const PROJECTS = [
   {
       name: "WEATHER DETAILS APP",
     description:
-      "Welcome to our simple and lightweight weather web application! This site is designed to provide real-time weather updates in a fast and user-friendly way. Whether you’re planning your day or just curious about the current conditions, our app delivers accurate weather information right at your fingertips.Built with simplicity in mind, this project focuses on speed, clarity, and accessibility. We hope it helps you stay prepared for whatever the skies bring!
-",
+      "Welcome to our simple and lightweight weather web application! This site is designed to provide real-time weather updates in a fast and user-friendly way. Whether you’re planning your day or just curious about the current conditions, our app delivers accurate weather information right at your fingertips.Built with simplicity in mind, this project focuses on speed, clarity, and accessibility. We hope it helps you stay prepared for whatever the skies bring!",
     tags: [
       {
         name: "Javascript",
