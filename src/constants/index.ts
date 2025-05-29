@@ -148,12 +148,10 @@ export const EXPERIENCES = [
     date: "2025 Janavari 30 - 2030 janaveri 30",
     points: [
       "Welcome to SOLO-LEVELING, Sri Lanka's most powerful, stylish, and intelligent WhatsApp bot — built for tech lovers, anime fans, and digital warriors.",
-      "💥 Powered by automation, AI, and attitude..",
-      "🎭 Designed for everyone — from curious beginners to advanced hackers.",
-      "🎮 Download videos, music, anime, tools & more",
-      "👑 Created by RED SAMURAY D.Rukshan — the mind behind the LOD team
-",
-      "🐉 Helpr by - Dinu id",
+      "Powered by automation, AI, and attitude..",
+      "Designed for everyone — from curious beginners to advanced hackers.",
+      "Download videos, music, anime, tools & more",
+      "Created by RED SAMURAY D.Rukshan — the mind behind the LOD team Helpr by - Dinu id",
       "> Fast. Fearless. Sinhala. SOLO-LEVELING Join the new era of WhatsApp bots",
     ],
   },
