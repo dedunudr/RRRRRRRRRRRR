@@ -95,8 +95,8 @@ export const Works = () => {
       <>
         {/* Title */}
         <motion.div variants={textVariant()}>
-          <p className={styles.sectionSubText}>My Work</p>
-          <h2 className={styles.sectionHeadText}>Projects.</h2>
+          <p className={styles.sectionSubText}>FOUNDR ABOUT 🇰🇷┃🇯🇵</p>
+          <h2 className={styles.sectionHeadText}>MY ABOUT I AM RUKSHAN.</h2>
         </motion.div>
 
         {/* About */}
@@ -105,16 +105,19 @@ export const Works = () => {
             variants={fadeIn("", "", 0.1, 1)}
             className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
           >
-            Following projects showcases my skills and experience through
-            real-world examples of my work. Each project is briefly described
-            with links to code repositories and live demos in it. It reflects my
-            ability to solve complex problems, work with different technologies,
-            and manage projects effectively.
+            Hi, I'm D. Rukshan – a passionate creator and a future entrepreneur with big dreams and a bigger heart.
+            I specialize in building dynamic websites, developing powerful WhatsApp bots, and bringing ideas to life through creative photo and video editing.
+            I also design unique logos that tell a story.But my journey goes beyond just tech. I'm on a mission to build a successful life in Japan, become a renowned businessman,
+and most importantly, give my mother the life she truly deserves. Every line of code I write and every design I create is a step toward that dream.
+Tech is not just my profession – it’s my way of expressing joy, ambition, and purpose. I don’t just work—I enjoy every bit of what I do,
+and that energy flows into everything I create.
+Let’s build the future, one pixel and one purpose at a time. 💻🚀
+
           </motion.p>
         </div>
 
         {/* Project Card */}
-        <div className="mt-20 flex flex-wrap gap-7">
+        <div className="mt-20 flex flex-wrap gap-7">ක්
           {PROJECTS.map((project, i) => (
             <ProjectCard key={`project-${i}`} index={i} {...project} />
           ))}
