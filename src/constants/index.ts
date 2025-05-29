@@ -141,29 +141,33 @@ export const TECHNOLOGIES = [
 // Experiences
 export const EXPERIENCES = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "SOLO LEVELING PROJECT",
+    company_name: "Javascript",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "2025 Janavari 30 - 2030 janaveri 30",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Welcome to SOLO-LEVELING, Sri Lanka's most powerful, stylish, and intelligent WhatsApp bot — built for tech lovers, anime fans, and digital warriors.",
+      "💥 Powered by automation, AI, and attitude..",
+      "🎭 Designed for everyone — from curious beginners to advanced hackers.",
+      "🎮 Download videos, music, anime, tools & more",
+      "👑 Created by RED SAMURAY D.Rukshan — the mind behind the LOD team
+",
+      "🐉 Helpr by - Dinu id",
+      "> Fast. Fearless. Sinhala. SOLO-LEVELING Join the new era of WhatsApp bots",
     ],
   },
   {
-    title: "React Native Developer",
+    title: "Logo Designer",
     company_name: "Tesla",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2024 - Feb 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "I'm a passionate logo and photo designer who specializes in creating eye-catching,professional designs and high-quality edits.",
+      "Whether it's a brand-new logo or a stunning photo transformation, I bring creativity, detail, and a personal touch to every project.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Let's bring your ideas to life with style and impact!",
     ],
   },
   {
@@ -171,7 +175,7 @@ export const EXPERIENCES = [
     company_name: "Shopify",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2023 - Jan 2025",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -180,7 +184,7 @@ export const EXPERIENCES = [
     ],
   },
   {
-    title: "Full stack Developer",
+    title: "Full st",
     company_name: "Meta",
     icon: meta,
     iconBg: "#E6DEDD",
@@ -225,9 +229,9 @@ export const TESTIMONIALS = [
 // Projects
 export const PROJECTS = [
   {
-    name: "Disney+ Clone",
+    name: "SOLO LEVELING MULTI DEVICE",
     description:
-      "Disney+ is one of the biggest streaming platforms used by millions of people world-wide and allows us to stream high quality content in 4k and various other formats",
+      "SOLO-LEVELING, Sri Lanka's most powerful, stylish, and intelligent WhatsApp bot — built for tech lovers, anime fans, and digital warriors. Javascript simple whatsapp bot in LEGION OF DOOM [LOD] TEM",
     tags: [
       {
         name: "react",
@@ -238,35 +242,13 @@ export const PROJECTS = [
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Jv",
         color: "pink-text-gradient",
       },
-    ],
+    ],    
     image: project1,
-    source_code_link: "https://github.com/sanidhyy/disney-clone",
-    live_site_link: "https://clonedisneyplus.web.app/",
-  },
-  {
-    name: "Golds Gym",
-    description:
-      "Web application that enables users to search for fitness exercises, effective personalized positions, and recommends new exercises based on their personal preferences.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "rapidapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwindcss",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: project2,
-    source_code_link: "https://github.com/sanidhyy/fitness-app",
-    live_site_link: "https://fitness-gym-react.netlify.app/",
+    source_code_link: "https://github.com/ESKOBA-JAPANEES-TEM/SOLO-LEVELING",
+    live_site_link: "https://solo-leveling-by-rukshan-session.onrender.com",
   },
   {
     name: "Shoppy",
@@ -287,9 +269,10 @@ export const PROJECTS = [
       },
     ],
     image: project3,
-    source_code_link: "https://github.com/sanidhyy/admin-dashboard",
+    source_code_link: "https://github.com/sany/admin-hboard",
     live_site_link: "https://shoppy-dashboard-react.netlify.app/",
   },
+
   {
     name: "TikTok Clone",
     description:
@@ -309,30 +292,53 @@ export const PROJECTS = [
       },
     ],
     image: project4,
-    source_code_link: "https://github.com/sanidhyy/tiktok-clone",
-    live_site_link: "https://tiktok-clone-react.vercel.app/",
+    source_code_link: "https://github.com/san-clone",
+    live_site_link: "https://tiktok-clone-reacapp/",
   },
   {
-    name: "Cryptoverse",
+    name: "SESSION SITE & QR",
     description:
-      "Best Cryptocurrency web application that allows users to view price, market cap and daily change in realtime for almost every cryptocurrency in the world.",
+      "SOLO LEVELING Whatsapp Bot Multi Device Whatsapp contacting to get session 🇯🇵┃🇰🇷 , Session 1 site mine and session  2 site simple erro, going to session mine site 🔥.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "rapidapi",
+        name: "Html",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Jv",
         color: "pink-text-gradient",
       },
     ],
     image: project5,
-    source_code_link: "https://github.com/sanidhyy/crypto-app",
-    live_site_link: "https://reactjscryptoapp.netlify.app/",
+    source_code_link: "https://solo-leveling-session-2.onrender.com",
+    live_site_link: "https://solo-leveling-session-2.onrender.com",
+  },
+  {
+      name: "WEATHER DETAILS APP",
+    description:
+      "Welcome to our simple and lightweight weather web application! This site is designed to provide real-time weather updates in a fast and user-friendly way. Whether you’re planning your day or just curious about the current conditions, our app delivers accurate weather information right at your fingertips.Built with simplicity in mind, this project focuses on speed, clarity, and accessibility. We hope it helps you stay prepared for whatever the skies bring!
+",
+    tags: [
+      {
+        name: "Javascript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Css",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Html",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: project2,
+    source_code_link: "https://weather-io-by-rukshan.vercel.app/",
+    live_site_link: "https://weather-io-by-rukshan.vercel.app/",
   },
   {
     name: "Travel Advisor",
@@ -360,23 +366,23 @@ export const PROJECTS = [
 
 export const SOCIALS = [
   {
-    name: "YouTube",
+    name: "YOUTUBE",
     icon: youtube,
-    link: "https://www.youtube.com/@OPGAMER.",
+    link: "https://www.youtube.com/MER.",
   },
   {
-    name: "Linkedin",
+    name: "TELEGRAM",
     icon: linkedin,
-    link: "https://www.linkedin.com/in/sanidhyy",
+    link: "https://t.me/legion_of_doom_2050",
   },
   {
-    name: "Twitter",
+    name: "CHENNAL",
     icon: twitter,
-    link: "https://twitter.com/TechnicalShubam",
+    link: "https://whatsapp.com/channel/0029VbAWWH9BFLgRMCXVlU38",
   },
   {
-    name: "GitHub",
+    name: "OWNER",
     icon: github,
-    link: "https://github.com/sanidhyy",
+    link: "https://whatsapp.com/channel/0029VbAWWH9BFLgRMCXVlU38",
   },
 ] as const;
