@@ -117,7 +117,7 @@ Let’s build the future, one pixel and one purpose at a time. 💻🚀
         </div>
 
         {/* Project Card */}
-        <div className="mt-20 flex flex-wrap gap-7">ක්
+        <div className="mt-20 flex flex-wrap gap-7">
           {PROJECTS.map((project, i) => (
             <ProjectCard key={`project-${i}`} index={i} {...project} />
           ))}
