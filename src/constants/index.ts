@@ -245,8 +245,8 @@ export const PROJECTS = [
       },
     ],    
     image: project1,
-    source_code_link: "https://github.com/ESKOBA-JAPANEES-TEM/SOLO-LEVELING",
-    live_site_link: "https://solo-leveling-by-rukshan-session.onrender.com",
+    source_code_link: "https://github.com/JAPANEES-TEM-BY-RUKA-LOD/SOLO-LEVELING",
+    live_site_link: "https://github.com/JAPANEES-TEM-BY-RUKA-LOD/SOLO-LEVELING",
   },
   {
     name: "Shoppy",
