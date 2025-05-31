@@ -312,8 +312,8 @@ export const PROJECTS = [
       },
     ],
     image: project5,
-    source_code_link: "https://solo-leveling-session-2.onrender.com",
-    live_site_link: "https://solo-leveling-session-2.onrender.com",
+    source_code_link: "https://rukshan-whit-solo-leveling-session-2.onrender.com",
+    live_site_link: "https://session-by-solo-leveling.onrender.com",
   },
   {
       name: "WEATHER DETAILS APP",
